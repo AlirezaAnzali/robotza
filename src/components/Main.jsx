@@ -1,6 +1,7 @@
 import Hero from "./Hero";
 import Robots from "./Robots";
 import Testimonials from "./Testimonials";
+import Contact from "./Contact";
 
 const Main = () => {
   return (
@@ -16,6 +17,8 @@ const Main = () => {
       <Testimonials />
 
       <hr className="mx-auto bg-black dark:bg-white w-1/2" />
+
+      <Contact />
     </main>
   );
 };
