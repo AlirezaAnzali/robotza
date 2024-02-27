@@ -36,7 +36,7 @@ const Contact = () => {
         ></textarea>
         <button
           type="submit"
-          className="bg-violet-600 hover:bg-violet-500 active:bg-violet-400 text-white p-3 w-48 rounded-xl border border-solid border-slate-900 dark:border-none self-center"
+          className="bg-violet-600 hover:bg-violet-500 active:bg-violet-400 text-white p-3 w-48 rounded-xl  self-center"
         >
           Submit
         </button>
