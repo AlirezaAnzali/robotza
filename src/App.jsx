@@ -1,8 +1,12 @@
-function App() {
+import Header from "./components/Header";
+import Main from "./components/Main";
+
+function App(toggleTheme) {
   return (
-    <>
-      <h1 className="text-3xl font-bold underline">Hello World</h1>
-    </>
+    <div className="min-h-screen bg-indigo-100 dark:bg-black dark:text-white">
+      <Header toggleTheme={toggleTheme} />
+      <Main />
+    </div>
   );
 }
 
