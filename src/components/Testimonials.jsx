@@ -22,7 +22,7 @@ const Testimonials = () => {
       <figure className="my-12">
         <blockquote className="bg-violet-600 dark:bg-black pl-14 pr-8 py-12 rounded-3xl relative">
           <p className="text-2xl sm:text-3xl text-left mt-2 text-white dark:text-slate-400 before:content-['“'] after:content-['”'] before:font-serif before:absolute before:-top-0 before:-left-0 after:font-serif after:absolute after:-bottom-20 after:-right-0 before:text-9xl after:text-9xl before:text-white after:text-white before:transform after:transform before:translate-x-2 after:-translate-x-2 before:translate-y-2 after:-translate-y-2 before:opacity-25 after:opacity-25">
-            The Robotza's TechnoBot has outsmarted my efforts with the the
+            The Robotza&apos;s TechnoBot has outsmarted my efforts with the the
             Nova-Core Disruptor time and time again.{" "}
             <span className="italic">This fills me with frustration!</span>{" "}
             Nonetheless, K-9 and I have granted Robotza the contract for
@@ -38,10 +38,11 @@ const Testimonials = () => {
         <blockquote className="bg-violet-600 dark:bg-black pl-14 pr-8 py-12 rounded-3xl relative">
           <p className="text-2xl sm:text-3xl text-left mt-2 text-white dark:text-slate-400 before:content-['“'] after:content-['”'] before:font-serif before:absolute before:-top-0 before:-left-0 after:font-serif after:absolute after:-bottom-20 after:-right-0 before:text-9xl after:text-9xl before:text-white after:text-white before:transform after:transform before:translate-x-2 after:-translate-x-2 before:translate-y-2 after:-translate-y-2 before:opacity-25 after:opacity-25">
             I knew I not only wanted &#8212;{" "}
-            <span className="italic">I needed</span> &#8212; Robotza's SteelPal
-            Robot for my adventure in the unknown. Robotza delivered in one day!
-            Nothing says <q className="italic">Take me to your leader</q> like
-            Robotza's SteelPal Robot! 💯
+            <span className="italic">I needed</span> &#8212; Robotza&apos;s
+            SteelPal Robot for my adventure in the unknown. Robotza delivered in
+            one day! Nothing says{" "}
+            <q className="italic">Take me to your leader</q> like Robotza&apos;s
+            SteelPal Robot! 💯
           </p>
         </blockquote>
         <figcaption className="italic text-xl sm:text-2xl text-right mt-2 text-slate-500 dark:text-slate-400">
